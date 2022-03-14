@@ -1,4 +1,4 @@
-# Emailer-send
+# Email-sender
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jutape/email-sender?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jutape/email-sender?style=for-the-badge)
